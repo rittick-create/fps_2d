@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file alias="rifle.wav">sounds/rifle.wav</file>
+        <file alias="shotgun.wav">sounds/shotgun.wav</file>
+        <file alias="hit.wav">sounds/hit.wav</file>
+        <file alias="explosion.wav">sounds/explosion.wav</file>
+        <file alias="hurt.wav">sounds/hurt.wav</file>
+        <file alias="pickup.wav">sounds/pickup.wav</file>
+        <file alias="reload.wav">sounds/reload.wav</file>
+        <file alias="wave.wav">sounds/wave.wav</file>
+        <file alias="victory.wav">sounds/victory.wav</file>
+        <file alias="defeat.wav">sounds/defeat.wav</file>
+    </qresource>
+</RCC>

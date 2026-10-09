@@ -1,0 +1,9 @@
+QT += core gui widgets
+CONFIG += console c++17
+CONFIG -= app_bundle
+TEMPLATE = app
+TARGET = gridbreach_tests
+INCLUDEPATH += ..
+SOURCES += test.cpp ../gamewidget.cpp ../rendering.cpp ../soundbank.cpp
+HEADERS += ../gamewidget.h ../soundbank.h
+RESOURCES += ../sounds.qrc
